@@ -1,9 +1,6 @@
 # Netflix-UI-Clone
-Here’s a sample README file for a Netflix UI Clone project:
 
 ---
-
-# Netflix UI Clone
 
 Welcome to the **Netflix UI Clone** project! This project is a front-end replica of the Netflix user interface, built for educational purposes to demonstrate skills in web development using modern technologies.
 
